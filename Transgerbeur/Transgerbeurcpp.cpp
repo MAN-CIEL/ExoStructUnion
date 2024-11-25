@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-struct Spalette
+/*struct Spalette
 {
 	int poids;
 	char reference[20];
@@ -84,5 +84,5 @@ void main()
 	cout << "casier 2 : " << sizeof(c2) << "octet(s)" << endl;
 	cout << "nouveau tableau casier : " << sizeof(tabC) << "octet(s)" << endl;
 	cout << "indice 0 nouveau tableau casier : " << sizeof(tabC[0]) << "octet(s)" << endl;
-	cout << "indice 2 nouveau tableau casier : " << sizeof(tabC[2]) << "octet(s)" << endl;
+	cout << "indice 2 nouveau tableau casier : " << sizeof(tabC[2]) << "octet(s)" << endl;*/
 }
