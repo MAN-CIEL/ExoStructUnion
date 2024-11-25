@@ -30,7 +30,7 @@ struct SCasier
 
 void main()
 {
-	cout << "PROGRAMME TRANSGERBEUR";
+	cout << "PROGRAMME TRANSGERBEUR" << endl;
 	SCasier tabCasier[10];
 	Srouleau ro1 = { 10.5,552 };
 	Spalette pa1;
